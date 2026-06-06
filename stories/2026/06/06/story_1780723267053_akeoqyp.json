@@ -1,0 +1,26 @@
+{
+  "id": "story_1780723267053_akeoqyp",
+  "authorGitHubId": "42887929",
+  "authorUsername": "mhdstk",
+  "authorName": "MUHAMMED SHAHEEN TK",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/42887929?v=4",
+  "timestamp": 1780723267053,
+  "expiresAt": 1780809667053,
+  "content": {
+    "type": "text",
+    "text": "Hi all"
+  },
+  "visibility": "public",
+  "tags": [
+    "txt"
+  ],
+  "viewCount": 0,
+  "viewers": [],
+  "reactions": {},
+  "metadata": {
+    "createdWith": "0.1.8",
+    "projectContext": {
+      "workspaceName": "exp"
+    }
+  }
+}
