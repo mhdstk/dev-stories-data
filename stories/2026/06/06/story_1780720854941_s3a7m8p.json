@@ -1,0 +1,31 @@
+{
+  "id": "story_1780720854941_s3a7m8p",
+  "authorGitHubId": "42887929",
+  "authorUsername": "mhdstk",
+  "authorName": "MUHAMMED SHAHEEN TK",
+  "authorAvatar": "https://avatars.githubusercontent.com/u/42887929?v=4",
+  "timestamp": 1780720854941,
+  "expiresAt": 1780807254941,
+  "content": {
+    "type": "code",
+    "code": {
+      "content": "interface Account {\n    id: number;\n    name: string;\n    account_type: \"cash\" | \"bank\" | \"credit_card\";\n    current_balance: number;\n    initial_balance: number;\n    currency: string;\n}",
+      "language": "typescriptreact",
+      "filename": "page.tsx"
+    }
+  },
+  "visibility": "public",
+  "tags": [
+    "typescriptreact"
+  ],
+  "viewCount": 0,
+  "viewers": [],
+  "reactions": {},
+  "metadata": {
+    "createdWith": "0.1.7",
+    "projectContext": {
+      "workspaceName": "exp",
+      "activeFile": "/Users/shaheentk/code/mhdstk.dev/exp/app/src/app/accounts/page.tsx"
+    }
+  }
+}
